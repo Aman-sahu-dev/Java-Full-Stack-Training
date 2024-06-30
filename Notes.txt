@@ -1,0 +1,27 @@
+Installation guide:
+
+java jdk - https://www.oracle.com/in/java/technologies/downloads/#jdk22-windows
+check installation - java --version
+
+IDE Eclipse - https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2024-06/R/eclipse-inst-jre-win64.exe
+IDE VS code - https://code.visualstudio.com/download
+
+Important References
+
+For file Handling
+https://techvidvan.com/tutorials/java-file-handling/#google_vignette
+
+Buffered Reader and Writer
+https://codegym.cc/groups/posts/bufferedreader-and-bufferedwriter
+
+Serialization and Deserialization
+https://www.studytonight.com/java-examples/java-serialization-and-deserialization
+
+JDBC connectivity
+https://www.nitendratech.com/programming/learn-jdbc/
+
+JPA 
+https://www.javaguides.net/p/jpa-tutorial-java-persistence-api.html
+
+Apache tomcat download
+https://tomcat.apache.org/download-10.cgi
